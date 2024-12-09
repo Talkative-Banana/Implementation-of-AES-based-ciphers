@@ -1,5 +1,3 @@
-<!-- PROJECT LOGO --> <br /> <p align="center"> <a> <img src="https://github.com/user-attachments/assets/ad44efa3-8019-4104-b0e6-be60701f5072" alt="Logo"> </a>
-
 # Cryptographic Ciphers: Rocca and SNOW-V
 
 This project demonstrates the implementation and analysis of two advanced cryptographic ciphers: **Rocca** and **SNOW-V**. Both algorithms are designed to meet modern cryptographic needs with a focus on speed, security, and resource efficiency.
